@@ -1,4 +1,4 @@
-# flutter_application_2
+# Aplikasi Restoran Sederhana
 
 A new Flutter project.
 
